@@ -20,9 +20,10 @@
 <br>
 
 ## GitHub Stats
+
 <p>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhlamHasan&theme=jolly&show_icons=true" />
-  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhlamHasan&theme=jolly" />
+  <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=AhlamHasan&theme=jolly&show_icons=true" />
+  <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhlamHasan&theme=jolly" />
 </p>
 
 <br>
