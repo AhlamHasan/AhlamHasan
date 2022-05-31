@@ -10,9 +10,9 @@
 
 <br>
 
-- 🔭 I’m currently working on My Future App
-- 🌱 I’m currently learning android with kotlin
-- 📫 reach me on: ...
+- 🔭 I’m currently working on [MyFuture App](https://github.com/AhlamHasan/My-Future-App.git)
+- 🌱 I’m currently learning **android with kotlin**
+- 📫 reach me on: **ahlamhasan150@gmail.com**
 - 😄 Fun fact: My favorite drink is tea
 
 <br>
